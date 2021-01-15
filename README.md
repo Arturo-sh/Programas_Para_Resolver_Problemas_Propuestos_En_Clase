@@ -1,2 +1,0 @@
-# Programas_Para_Resolver_Problemas_Propuestos_En_Clase
-Programas
